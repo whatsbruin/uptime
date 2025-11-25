@@ -31,9 +31,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# Notifications: Enable email via PrivateEmail SMTP (for SMS gateway)
-notifications:
-  mail:
-    from: "jr@ecoverysoftware.com"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
