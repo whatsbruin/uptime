@@ -1,6 +1,6 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://whatsbruin.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Upptime](https://whatsbruin.github.io/uptime/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/whatsbruin/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/whatsbruin/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/whatsbruin/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/whatsbruin/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
+[**Visit our status website →**](https://whatsbruin.github.io/uptime/)
 
 ## 📄 License
 
