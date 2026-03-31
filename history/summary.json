@@ -62,7 +62,7 @@
     "url": "https://daviscarpentry.com",
     "icon": "https://icons.duckduckgo.com/ip3/daviscarpentry.com.ico",
     "slug": "davis-carpentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,6 +74,7 @@
     "timeMonth": 193,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2026-03-31": 0,
       "2026-02-28": 36,
       "2026-02-17": 60,
       "2026-02-12": 127,
