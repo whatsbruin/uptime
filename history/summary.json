@@ -42,9 +42,9 @@
     "url": "https://callfreeman.com",
     "icon": "https://icons.duckduckgo.com/ip3/callfreeman.com.ico",
     "slug": "call-freeman",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -54,6 +54,7 @@
     "timeMonth": 186,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2026-04-16": 0,
       "2025-12-19": 54
     }
   },
@@ -63,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/daviscarpentry.com.ico",
     "slug": "davis-carpentry",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 266,
     "timeDay": 77,
     "timeWeek": 146,
