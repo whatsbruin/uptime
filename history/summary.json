@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/garrylist.org.ico",
     "slug": "garys-lists",
     "status": "down",
-    "uptime": "95.90%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "95.90%",
+    "uptime": "95.76%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "95.76%",
     "time": 743,
     "timeDay": 743,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2026-05-21": 29
+      "2026-05-21": 30
     }
   }
 ]
