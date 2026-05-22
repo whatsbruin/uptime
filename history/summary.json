@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 250,
-    "timeDay": 209,
-    "timeWeek": 187,
-    "timeMonth": 222,
-    "timeYear": 250,
+    "time": 249,
+    "timeDay": 185,
+    "timeWeek": 193,
+    "timeMonth": 216,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-12-22": 55
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 211,
-    "timeWeek": 202,
-    "timeMonth": 221,
+    "timeDay": 187,
+    "timeWeek": 208,
+    "timeMonth": 215,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 196,
-    "timeDay": 191,
-    "timeWeek": 166,
+    "timeDay": 239,
+    "timeWeek": 169,
     "timeMonth": 187,
     "timeYear": 196,
     "dailyMinutesDown": {
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/daviscarpentry.com.ico",
     "slug": "davis-carpentry",
     "status": "up",
-    "uptime": "95.02%",
+    "uptime": "95.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "73.15%",
-    "uptimeYear": "95.02%",
+    "uptimeYear": "95.05%",
     "time": 270,
-    "timeDay": 192,
-    "timeWeek": 155,
-    "timeMonth": 308,
+    "timeDay": 188,
+    "timeWeek": 166,
+    "timeMonth": 304,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2026-05-13": 143,
@@ -115,18 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/garrylist.org.ico",
     "slug": "garys-lists",
     "status": "down",
-    "uptime": "95.76%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "95.76%",
+    "uptime": "31.30%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "31.30%",
+    "uptimeMonth": "31.30%",
+    "uptimeYear": "31.30%",
     "time": 743,
-    "timeDay": 743,
+    "timeDay": 0,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2026-05-21": 30
+      "2026-05-22": 163,
+      "2026-05-21": 1308
     }
   }
 ]
