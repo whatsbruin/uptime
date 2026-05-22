@@ -33,3 +33,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+notifications:
+  - type: slack
+    webhook-url: $NOTIFICATION_SLACK_WEBHOOK_URL
