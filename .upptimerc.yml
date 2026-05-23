@@ -12,7 +12,9 @@ sites:
   - name: davis carpentry
     url: https://daviscarpentry.com
   - name: garys lists
-    url: https://garrylist.org
+    url: https://garryslist.org
+  - name: Vin searc 
+    url: https://visor.vin.com
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
