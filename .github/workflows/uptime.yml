@@ -38,3 +38,12 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+      - name: Debug notification envs
+        run: |
+          echo "SLACK: ${{ secrets.NOTIFICATION_SLACK }}"
+          echo "WEBHOOK ENABLED: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK }}"
+          if [ -z "${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}" ]; then
+            echo "WEBHOOK URL MISSING"
+          else
+            echo "WEBHOOK URL EXISTS"
+          fi
