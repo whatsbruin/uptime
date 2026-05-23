@@ -116,7 +116,7 @@
     "slug": "garys-lists",
     "status": "up",
     "uptime": "18.51%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "0.04%",
     "uptimeWeek": "18.51%",
     "uptimeMonth": "18.51%",
     "uptimeYear": "18.51%",
@@ -137,16 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/visor.vin.com.ico",
     "slug": "vin-searc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "60.25%",
+    "uptimeDay": "60.25%",
+    "uptimeWeek": "60.25%",
+    "uptimeMonth": "60.25%",
+    "uptimeYear": "60.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-23": 0
+    }
   }
 ]
