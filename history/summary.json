@@ -67,7 +67,7 @@
     "uptime": "95.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.59%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "95.24%",
     "time": 264,
     "timeDay": 432,
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/garryslist.org.ico",
     "slug": "garys-lists",
     "status": "down",
-    "uptime": "75.53%",
-    "uptimeDay": "99.99%",
+    "uptime": "74.61%",
+    "uptimeDay": "89.63%",
     "uptimeWeek": "83.76%",
-    "uptimeMonth": "75.53%",
-    "uptimeYear": "75.53%",
+    "uptimeMonth": "74.61%",
+    "uptimeYear": "74.61%",
     "time": 527,
     "timeDay": 0,
     "timeWeek": 465,
@@ -129,7 +129,7 @@
       "2026-05-23": 205,
       "2026-05-22": 1440,
       "2026-05-21": 1308,
-      "2026-05-29": 0
+      "2026-05-29": 149
     }
   }
 ]
