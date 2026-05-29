@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 244,
     "timeDay": 374,
-    "timeWeek": 159,
+    "timeWeek": 164,
     "timeMonth": 196,
     "timeYear": 244,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 226,
     "timeDay": 382,
-    "timeWeek": 151,
+    "timeWeek": 161,
     "timeMonth": 198,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "uptime": "95.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.93%",
+    "uptimeMonth": "96.21%",
     "uptimeYear": "95.24%",
     "time": 264,
     "timeDay": 432,
@@ -114,22 +114,22 @@
     "url": "https://garryslist.org",
     "icon": "https://icons.duckduckgo.com/ip3/garryslist.org.ico",
     "slug": "garys-lists",
-    "status": "down",
-    "uptime": "74.61%",
-    "uptimeDay": "89.63%",
+    "status": "up",
+    "uptime": "73.87%",
+    "uptimeDay": "81.20%",
     "uptimeWeek": "83.76%",
-    "uptimeMonth": "74.61%",
-    "uptimeYear": "74.61%",
-    "time": 527,
-    "timeDay": 0,
-    "timeWeek": 465,
-    "timeMonth": 527,
-    "timeYear": 527,
+    "uptimeMonth": "73.87%",
+    "uptimeYear": "73.87%",
+    "time": 502,
+    "timeDay": 280,
+    "timeWeek": 442,
+    "timeMonth": 502,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2026-05-23": 205,
       "2026-05-22": 1440,
       "2026-05-21": 1308,
-      "2026-05-29": 149
+      "2026-05-29": 271
     }
   }
 ]
