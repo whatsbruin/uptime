@@ -63,9 +63,9 @@
     "url": "https://daviscarpentry.com",
     "icon": "https://icons.duckduckgo.com/ip3/daviscarpentry.com.ico",
     "slug": "davis-carpentry",
-    "status": "up",
+    "status": "down",
     "uptime": "96.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.11%",
@@ -106,7 +106,8 @@
       "2026-05-04": 109,
       "2026-05-06": 148,
       "2026-05-11": 120,
-      "2026-05-13": 143
+      "2026-05-13": 143,
+      "2026-07-09": 0
     }
   },
   {
@@ -115,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/garryslist.org.ico",
     "slug": "garys-lists",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.48%",
+    "uptimeYear": "95.52%",
     "time": 575,
     "timeDay": 207,
     "timeWeek": 271,
