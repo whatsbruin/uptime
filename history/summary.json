@@ -63,16 +63,16 @@
     "url": "https://daviscarpentry.com",
     "icon": "https://icons.duckduckgo.com/ip3/daviscarpentry.com.ico",
     "slug": "davis-carpentry",
-    "status": "down",
-    "uptime": "95.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "95.87%",
+    "status": "up",
+    "uptime": "95.86%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "95.86%",
     "time": 247,
-    "timeDay": 94,
-    "timeWeek": 136,
-    "timeMonth": 161,
+    "timeDay": 99,
+    "timeWeek": 132,
+    "timeMonth": 160,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-11-28": 16,
@@ -109,7 +109,7 @@
       "2026-05-13": 143,
       "2026-07-10": 311,
       "2026-07-09": 584,
-      "2026-07-11": 0
+      "2026-07-11": 54
     }
   },
   {
